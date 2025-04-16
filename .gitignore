@@ -1,7 +1,12 @@
 # Node.js
 node_modules/
+
+# Environment files
 .env
-*.log
+*.env
+config.env
+backend/config.env
+config/config.env
 
 # React
 frontend/node_modules/
